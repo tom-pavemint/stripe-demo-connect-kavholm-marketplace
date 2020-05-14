@@ -33,7 +33,7 @@
       "image3": "https://images.unsplash.com/photo-1533044309907-0fa3413da946?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
       "price": {
         "amount": 23825,
-        "currency": "USD"
+        "currency": "EUR"
       }
     },
     {
@@ -48,7 +48,7 @@
       "image3": "https://images.unsplash.com/photo-1524061511843-fd43443e3cb2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1536&q=80",
       "price": {
         "amount": 10392,
-        "currency": "USD"
+        "currency": "EUR"
       }
     },
     {
@@ -63,7 +63,7 @@
       "image3": "https://images.unsplash.com/photo-1555912881-1ecd82307e0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80",
       "price": {
         "amount": 38297,
-        "currency": "USD"
+        "currency": "EUR"
       }
     },
     {
@@ -78,7 +78,7 @@
       "image3": "https://images.unsplash.com/photo-1556912998-c57cc6b63cd7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80",
       "price": {
         "amount": 15492,
-        "currency": "USD"
+        "currency": "EUR"
       }
     },
     {
@@ -93,7 +93,7 @@
       "image3": "https://images.unsplash.com/photo-1495292312634-1531ba4dc949?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
       "price": {
         "amount": 17442,
-        "currency": "USD"
+        "currency": "EUR"
       }
     },
     {
@@ -108,7 +108,7 @@
       "image3": "https://images.unsplash.com/photo-1562778612-e1e0cda9915c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
       "price": {
         "amount": 19523,
-        "currency": "USD"
+        "currency": "EUR"
       }
     },
     {
@@ -123,7 +123,7 @@
       "image3": "https://images.unsplash.com/photo-1562778357-58e2feebe9aa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2707&q=80",
       "price": {
         "amount": 29382,
-        "currency": "USD"
+        "currency": "EUR"
       }
     },
     {
@@ -138,7 +138,7 @@
       "image3": "https://images.unsplash.com/photo-1568385155229-d533acca4f96?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80",
       "price": {
         "amount": 36419,
-        "currency": "USD"
+        "currency": "EUR"
       }
     },
     {
@@ -153,7 +153,7 @@
       "image3": "https://images.unsplash.com/photo-1508957999498-e7a5e89ba28a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80",
       "price": {
         "amount": 424293,
-        "currency": "USD"
+        "currency": "EUR"
       }
     },
     {
@@ -168,7 +168,7 @@
       "image3": "https://images.unsplash.com/photo-1504624720567-64a41aa25d70?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2255&q=80",
       "price": {
         "amount": 21039,
-        "currency": "USD"
+        "currency": "EUR"
       }
     },
     {
@@ -183,7 +183,7 @@
       "image3": "https://images.unsplash.com/photo-1563298723-dcfebaa392e3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2248&q=80",
       "price": {
         "amount": 19382,
-        "currency": "USD"
+        "currency": "EUR"
       }
     },
     {
@@ -198,7 +198,7 @@
       "image3": "https://images.unsplash.com/photo-1542889601-399c4f3a8402?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80",
       "price": {
         "amount": 22382,
-        "currency": "USD"
+        "currency": "EUR"
       }
     }
   ],

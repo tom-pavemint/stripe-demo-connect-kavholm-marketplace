@@ -31,7 +31,7 @@ export default requireAuthEndpoint(async (req, res) => {
       'stripe_user[first_name]': userFirstName,
       'stripe_user[last_name]': userLastName,
       'stripe_user[business_type]': 'individual',
-      'stripe_user[country]': 'US',
+      'stripe_user[country]': 'IE',
     };
 
     let reqQuery = querystring.stringify(stripeConnectParams);

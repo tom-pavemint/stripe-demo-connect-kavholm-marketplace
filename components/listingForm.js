@@ -14,7 +14,7 @@ class ListingForm extends Component {
       description: 'Breezy cabana in Baja California',
       price: 10000,
       location: 'United States',
-      currency: 'USD',
+      currency: 'EUR',
     };
 
     this.handleChange = this.handleChange.bind(this);
@@ -79,7 +79,7 @@ class ListingForm extends Component {
                 type="text"
                 id="price"
                 name="price"
-                placeholder="10000 USD"
+                placeholder="10000 EUR"
                 value={this.state.price}
                 onChange={this.handleChange}
               />
@@ -94,8 +94,8 @@ class ListingForm extends Component {
                 value={this.state.currency}
                 onChange={this.handleChange}
               >
-                <option>USD</option>
                 <option>EUR</option>
+                <option>USD</option>
               </select>
             </div>
 
